@@ -21,7 +21,7 @@
 Clone the repository
 
 ```bash
-https://github.com/Manirathinam21/End-to-End-ML-Project-with-MLFlow
+https://github.com/Manirathinam21/End-to-End-ML-Project-with-Jenkins
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
